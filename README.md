@@ -9,7 +9,7 @@ The analysis focuses on calculating the time interval between consecutive machin
 - Identify machines with frequent breakdowns
 - Support maintenance and process optimization decisions
 
-### Analysis Result (Breakdown Intervals)
+## Analysis Result (Breakdown Intervals)
 The following data represents the calculated difference (in minutes/hours) between breakdown events for each specific machine:
 
 | machine_id | breakdown_diff |
